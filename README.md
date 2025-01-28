@@ -1,14 +1,13 @@
 # Testes automatizados com Cypress - Intermediário
 
-👋 Seja bem-vinda(o)!
+Curso desenvolvido pelo Walmyr Filho da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
 
-É muito bom tê-la(o) aqui. Tenho certeza que você vai adorar este curso. ❤️
 
-## O que você vai aprender
+## O que foi desenvolvido e aprendido durante o curso
 
-Durante o curso de testes automatizados com Cypress (intermediário) você vai aprender:
+Durante o curso de testes automatizados com Cypress (intermediário) foi realizado:
 
-- Como configurar o ambiente local de desenvolvimento
+- Como configurar o ambiente local de desenvolvimento (utilizando Docker)
 - Como instalar e configurar o Cypress
 - Como criar testes automatizados de interface gráfica de usuário
 - Como criar testes automatizados de API (com _feedback_ visual no navegador)
@@ -25,10 +24,4 @@ Durante o curso de testes automatizados com Cypress (intermediário) você vai a
 - Como executar comandos à nível de sistema operacional
 - E como testar a leitura de arquivos
 
-## Vamos começar?
 
-Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
-
-___
-
-Este é mais um curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
